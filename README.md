@@ -27,9 +27,8 @@ Here is a block of C++ code:
 ```
 cout << "Hello world" << endl;
 ```
-[Link](url) and ![Image](src)
 
-[Section Link](#Header 1)
+[Section Link](#Welcome)
 
 
 1. Item
@@ -37,5 +36,5 @@ cout << "Hello world" << endl;
      - nested item
      
 Todo:
-[x] Lab 1
-[ ] Other stuff
+- [x] Lab 1
+- [ ] Other stuff
