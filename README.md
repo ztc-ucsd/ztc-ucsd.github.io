@@ -28,7 +28,7 @@ Here is a block of C++ code:
 cout << "Hello world" << endl;
 ```
 
-[Section Link](#Welcome)
+[Section Link](#welcome-to-ztc-ucsds-homepage)
 
 
 1. Item
@@ -38,3 +38,4 @@ cout << "Hello world" << endl;
 Todo:
 - [x] Lab 1
 - [ ] Other stuff
+- [ ] More stuff
